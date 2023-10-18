@@ -1,7 +1,7 @@
 I love [Wikipedia](https://ja.wikipedia.org)!
 
 [テキスト](https://www.google.co.jp)
-- aaa
-　-ccc
-  -bbb
+
+1. aaa 
 - bbb
+ - ccc
