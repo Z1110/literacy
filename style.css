@@ -1,6 +1,12 @@
-th{color:white;
-   background:orange;}
+th{
+   color:white;
+   background:orange;
+}
 
-th,td{boder:1px solid black;}
+table,th,td{
+   boder:1px solid black;
+}
 
-table{border-collapse:collapse;}
+table,th,td{
+   border-collapse:collapse;
+}
