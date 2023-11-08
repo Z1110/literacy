@@ -1,12 +1,12 @@
 th{
-color:white;
-background:orange;
+  color:white;
+  background:orange;
 }
 
 th,td{
-boder:1px solid black;
+  border:1px solid black;
 }
 
 table{
-border-collapse:collapse;
+  border-collapse:collapse;
 }
